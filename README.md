@@ -40,10 +40,3 @@
 </p>
 
 ---
-
-### 🔥 GitHub Streak Stats:
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Sriramt384&theme=dark&mode=weekly" alt="GitHub Streak" />
-  </a>
-</p>
